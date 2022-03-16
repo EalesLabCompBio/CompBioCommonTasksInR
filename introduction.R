@@ -31,8 +31,8 @@
 #Task 13. How to circularise a heatmap
 
 #Student task 1. How many genes are eGenes on chromosome 1? 
-#Student task 2. How many genes are eGenes on each chromosome and can you plot it?
-#Student task 3. What is the mean, standard deviation, maximum and minimum number of eSNPs per eGene?
+#Student task 2. What is the mean, median, standard deviation, maximum and minimum number of eSNPs per eGene?
+#Student task 3. How many genes are eGenes on each chromosome and can you plot it?
 #Student task 4. Can you create a manhattan plot of eQTLs on chromosome 1
 
 

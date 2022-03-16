@@ -9,8 +9,9 @@ This GitHub repository is an Rstudio project, download it all as a zip or clone 
 ## Steps to success
 1. Start with [`introduction.R`](introduction.R)
 2. Have a look at the different tasks, each one is a separate R code file.
-3. Maybe also look at the [basics of data.table file](basics-of-data-table.R), for more detail on the "how" and "why".
-4. Write your own code for the 'contributed' section and submit a pull request.
+3. Have a go at completing the code for the student tasks (1-4).
+4. Maybe also look at the [basics of data.table file](basics-of-data-table.R), for more detail on the "how" and "why" and the "special" variables of data.table.
+5. Write your own code for the 'contributed' section and submit a pull request.
 
 ## Current status (January 2022)
 * First drafts of the introduction and basics code are written.
