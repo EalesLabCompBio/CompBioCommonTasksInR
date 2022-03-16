@@ -13,8 +13,9 @@ This GitHub repository is an Rstudio project, download it all as a zip or clone 
 4. Maybe also look at the [basics of data.table file](basics-of-data-table.R), for more detail on the "how" and "why" and the "special" variables of data.table.
 5. Write your own code for the 'contributed' section and submit a pull request.
 
-## Current status (January 2022)
-* First drafts of the introduction and basics code are written.
-* First drafts of tasks 1-5 are written.
+## Current status (March 2022)
+* First release of the student tasks 1-3 written.
+* First release of the introduction and basics code are written.
+* First release of tasks 1-5 are written.
 * All other tasks are just placeholders.
 
